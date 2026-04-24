@@ -184,7 +184,7 @@ shopiepie/
 
 ## What I'd Build in V2
 
-See the full argument in [PRODUCT_THINKING.md](./PRODUCT_THINKING.md). Summary:
+See the full argument in  Summary:
 
 1. **Real LLM integration** — Claude Sonnet for vision (image → style tags → catalog match) and personalised concierge copy
 2. **Proactive DMs** — Agent initiates conversations when preferred brands drop new collections
