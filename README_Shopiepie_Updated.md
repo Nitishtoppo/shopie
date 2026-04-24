@@ -3,7 +3,7 @@
 > An AI agent that turns an Instagram DM into a complete, personalised commerce journey — from identity verification to checkout — without the shopper ever leaving the conversation.
 
 **Live Prototype:** [https://shopiepie.lovable.app/](https://shopiepie.lovable.app/)
-
+Loom Video explanation: https://www.loom.com/share/8d998af8bfec456f98f7aba8e6246b54
 ---
 
 ## Setup 
